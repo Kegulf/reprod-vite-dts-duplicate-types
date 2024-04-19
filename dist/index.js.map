@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/entrypoint1.ts"],"sourcesContent":["import { MyCommonClass } from './someCommonCode';\r\n\r\nconst instance = new MyCommonClass();\r\nconsole.log(instance.getSomeClassField());\r\n"],"names":["instance","MyCommonClass"],"mappings":";AAEA,MAAMA,IAAW,IAAIC;AACrB,QAAQ,IAAID,EAAS,mBAAmB;"}
